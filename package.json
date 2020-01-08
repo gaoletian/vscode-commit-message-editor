@@ -207,6 +207,14 @@
           "default": true
         }
       }
+    },
+    "views": {
+      "scm": [
+        {
+          "id": "cmeRecentCommits",
+          "name": "Recent commits"
+        }
+      ]
     }
   },
   "scripts": {
